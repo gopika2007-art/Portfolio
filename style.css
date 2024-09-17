@@ -7,7 +7,7 @@ body{
 background-image: linear-gradient(to right, #a6a6a6 , #ffffff);
 }
 section{
-     height: 700px;
+     height: 800px;
 }
 header{
     display: flex;
