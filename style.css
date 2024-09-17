@@ -12,7 +12,8 @@ header{
     display: flex;
     padding-top: 15px;
     justify-content: space-between;
-    position: sticky;   
+    position: sticky;  
+    background-image: linear-gradient(to right, #a6a6a6 , #ffffff); 
     top: 0;
 }
 h1{
