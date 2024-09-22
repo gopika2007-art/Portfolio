@@ -190,14 +190,14 @@ border-radius: 50%;
 .contact-container {
     max-width: 600px;
     margin: 30px auto;
-    padding: 80px;
+    padding: 90px;
     border-radius: 10px;
 }
 
 .contact-item {
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .contact-item .icon {
@@ -213,4 +213,9 @@ h4{
     font-size: 50px;
     padding-left: 150px;
     margin-top: 100px;
+}
+.contact-item a{
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
 }
