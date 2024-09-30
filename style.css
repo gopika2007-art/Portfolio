@@ -18,10 +18,10 @@ header{
     top: 0;
 }
 h1{
-    margin-left: 300px;
+    display: flex;
+    font-size: 30px;
     font-family: "Archivo Black", sans-serif;
-    font-weight: 100;
-    font-style: normal;
+    margin-left: 15%;
 }
 nav ul{
     list-style: none;
@@ -38,9 +38,8 @@ nav ul a{
     color: black;
 }
 nav a:hover{
-    color: #ff914d;
-     border-bottom: 5px solid orange;
-     padding: 10px;
+    color: orange;
+    border-bottom: orange 4px solid;
 }
 .sec-1{
     display: flex;
@@ -116,7 +115,7 @@ border-radius: 50%;
 
        /* skills section */
 .skills-section {
-    padding: 20px;
+    /* padding: 20px; */
     border-radius: 10px;
     scroll-margin: 200px;
 }
@@ -141,7 +140,7 @@ border-radius: 50%;
 
 .skill {
     width: 45%;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
 }
 
 .skill-name {
@@ -160,31 +159,35 @@ border-radius: 50%;
 .progress {
     height: 100%;
     background-color: yellow;
-    border-radius: 10px;
+    border-radius: 10px;    
+}
+.percent{
+    margin-left: 5%;
+    font-size: 20px;
 }
 
 .html {
-    width: 30%;
+    width: 40%;
 }
 
 .css {
-    width: 20%;
+    width: 45%;
 }
 
 .javascript {
     width: 10%;
 }
 
-.bargain {
-    width: 55%;
+.edit {
+    width: 50%;
 }
 
 .market {
-    width: 20%;
+    width: 70%;
 }
 
 .logic {
-    width: 15%;
+    width: 25%;
 }
 
 
