@@ -115,7 +115,6 @@ border-radius: 50%;
 
        /* skills section */
 .skills-section {
-    /* padding: 20px; */
     border-radius: 10px;
     scroll-margin: 200px;
 }
@@ -153,16 +152,15 @@ border-radius: 50%;
     height: 20px;
     background-color:green;
     border-radius: 10px;
-    overflow: hidden;
 }
 
 .progress {
-    height: 100%;
+    height: 20px;
     background-color: yellow;
     border-radius: 10px;    
 }
 .percent{
-    margin-left: 5%;
+    margin-left: 60%;
     font-size: 20px;
 }
 
