@@ -182,11 +182,11 @@ nav a:hover {
 }
 
 .html {
-    width: 65%;
+    width: 55%;
 }
 
 .css {
-    width: 60%;
+    width: 45%;
 }
 
 .javascript {
@@ -194,11 +194,11 @@ nav a:hover {
 }
 
 .sql {
-    width: 40%;
+    width: 80%;
 }
 
 .selenium {
-    width: 50%;
+    width: 40%;
 }
 
 .logic {
@@ -261,6 +261,9 @@ nav a:hover {
 }
 .skill-level{
     font-size: 25px;
+}
+.level{
+    font-size: 20px;
 }
 /* Contact section */
 .contact-container {
