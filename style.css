@@ -265,6 +265,60 @@ nav a:hover {
 .level{
     font-size: 20px;
 }
+
+
+/* life skill */
+.life-skills-section {
+    border-radius: 10px;
+    scroll-margin: 200px;
+    padding: 40px;
+    text-align: center;
+    
+}
+
+.life-skills-title {
+    font-size: 50px;
+    color: black;
+    text-shadow: 8px 20px 3px gray;
+    font-family: "Archivo Black", sans-serif;
+    letter-spacing: 5px;
+    margin-bottom: 150px;
+    scroll-margin: 120px;
+}
+
+.life-skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+}
+
+.life-skill {
+    width: 45%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.life-skill-name {
+    font-size: 35px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.stars {
+    font-size: 50px;
+    color: rgb(182, 156, 9);
+}
+
+.skill-level {
+    font-size: 25px;
+}
+
+.level {
+    font-size: 20px;
+}
+
+
 /* Contact section */
 .contact-container {
     max-width: 600px;
